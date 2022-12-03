@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', async() => {
 
     function showInfo(data){
     console.table(data.planets);
-    }
+    } 
 
 
     document.getElementById('Összesbolygo').addEventListener('click', () => {
